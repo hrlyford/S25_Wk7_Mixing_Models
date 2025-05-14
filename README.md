@@ -1,2 +1,3 @@
-# S25_W7_Mixing_Models
+# S25_Wk7_Mixing_Models
 R seminar mixing models tutorial
+using example data from sediment cores in a seagrass meadow in moorea
